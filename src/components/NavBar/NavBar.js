@@ -1,6 +1,6 @@
 import React from 'react';
 import "bootstrap/js/src/collapse.js";
-import './NavBar.css'
+import './NavBar.css';
 
 export default function NavBar() {
   return (
