@@ -4,9 +4,9 @@ import './NavBar.css';
 
 export default function NavBar() {
   return (
-<nav className="navbar navbar-expand-lg bg-white">
+<nav className="navbar navbar-expand-lg">
   <a className="navbar-brand" href="/">
-    <img src="./assets/logo.png"  alt="..."/>
+    <img src="./assets/logo1.png"  alt="..."/>
   </a>
   <button class="navbar-toggler mx-3 "
   type="button"

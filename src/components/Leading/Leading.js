@@ -27,7 +27,7 @@ export default function Leading() {
           <p>  I'm a <span className='text-primary'> <span ref={el} /> </span> based in Nouakchoutt, Mauritania </p>
           <div className='buttons'>
               <button className='btn btn-primary'>Let's talk</button>
-              <button className='btn btn-secondary'>My projects</button>
+              <button className='btn btn-secondary project'>My projects</button>
           </div>
       </div>
       <div className='photo'>
