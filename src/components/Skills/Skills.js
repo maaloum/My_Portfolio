@@ -8,7 +8,7 @@ export default function Skills() {
         <div className='skills__container__left'>
             <div className='section'>
                 <div className='skill'>
-                    <img src='./assets/frontend.jpg'/>
+                    <img src='./assets/frontend.jpg' alt='frontend'/>
                     <h2>Front End</h2>
                 </div>
                 <ul>
@@ -22,7 +22,7 @@ export default function Skills() {
             </div>
                 <div className='section'>
                 <div className='skill'>
-                <img src='./assets/backend.jpg'/>
+                <img src='./assets/backend.jpg' alt='backend'/>
                 <h2>Backend End</h2>
              </div>
             <ul>
@@ -36,7 +36,7 @@ export default function Skills() {
                 </div>
                 <div className='section'>
                             <div className='skill' >
-                            <img src='./assets/tools.jpg'/>
+                            <img src='./assets/tools.jpg' alt = 'tools'/>
                             <h2> Others </h2>
                         </div>
                         <ul>
