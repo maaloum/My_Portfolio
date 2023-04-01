@@ -9,7 +9,7 @@ export default function Project() {
             <div class="card">
                 <img src="./assets/ecommerce.png" class="card-img-top" alt="ecommerce"/>
                 <div class="card-body">
-                    <h5 class="card-title text-primary">E-commrce</h5>
+                    <h5 class="card-title text-primary">E-commerce</h5>
                     <p class="card-text">The application is built using the React library, which provides a fast and responsive user interface. The Bootstrap framework is used to create a modern and visually appealing design, while Skeleton provides a lightweight and responsive CSS boilerplate.</p>
                     <a href="https://641f963ae0999f35015dbab1--glittering-elf-15ef96.netlify.app/"  target ="_blank" class="btn btn-info">Go Live</a>
                 </div>
