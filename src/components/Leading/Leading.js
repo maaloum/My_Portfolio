@@ -31,7 +31,7 @@ export default function Leading() {
           </div>
       </div>
       <div className='photo'>
-          <img src="./assets/my_photo.jpg" alt="personal photo"/>
+          <img src="./assets/photo.jpeg" alt="personal photo"/>
       </div>
     </div>
   )
