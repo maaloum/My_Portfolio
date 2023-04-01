@@ -4,7 +4,7 @@ import './Skills.css'
 export default function Skills() {
   return (
     <div className='skills'>
-        <h2>Skills</h2>
+        <h2> My Skills</h2>
         <div className='skills__container__left'>
             <div className='section'>
                 <div className='skill'>
