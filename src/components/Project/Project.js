@@ -15,7 +15,8 @@ export default function Project() {
                         <div class="card-body">
                             <h5 class="card-title text-primary">{project.name}</h5>
                             <p class="card-text">{project.description}</p>
-                            <a href={project.deployed}  target='_blank' rel="noreferrer" class="btn btn-info">Go Live</a>
+                            <i class="fa fa-github" aria-hidden="true"><a className='text-dark' href={project.github} target='_blank' rel="noreferrer"> Github</a></i>
+                            <a href={project.deployed}  target='_blank' rel="noreferrer" class="btn btn-primary">Go Live</a>
                         </div>
                     </div>
                 </div>

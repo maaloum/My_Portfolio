@@ -56,7 +56,7 @@
     font-size: 1rem;
     font-weight: 300;
     color: #000;
-    height: 190px;
+    height: 180px;
 }
 
 .card .card-title{
@@ -67,4 +67,20 @@
 
 .card a{
     width: 100%;
+}
+
+.card .card-body i{
+    font-size: 1rem;
+    color: #ee7c7c;
+}
+
+.card .card-body a{
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 2px;
+    margin: 2px;
+}
+
+.card .card-body i:hover{
+    color: #ee7c7c;
 }
