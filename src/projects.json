@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "SmartDev",
+        "description": "SmartDevis a website built in Html5, Css3, Javascript/Bootstrap for a company that I worked for.",
+        "image": "./assets/sma.png",
+        "deployed": "https://smartdev.ai/"
+    },
+    {
+        "id": 2,
+        "name": "Smart MS SA",
+        "description": "Smart MS SA is a website built in Html5, Css3, Javascript/Bootstrap for a company that I worked for.",
+        "image": "./assets/smr.png",
+        "deployed": "https://www.smartmssa.com/"
+    },
+    {
+        "id": 3,
+        "name": "E-commerce",
+        "description": "The application is built using the React library, which provides a fast and responsive user interface. The Bootstrap framework is used to create a modern and visually appealing design, while Skeleton provides a lightweight and responsive CSS boilerplate.",
+        "image": "./assets/ecommerce.png",
+        "deployed": "https://641f963ae0999f35015dbab1--glittering-elf-15ef96.netlify.app/"
+    },
+{
+    "id": 4,
+    "name": "Maaloum Blog",
+    "description": "Maaloum Blog is a React SPA application that allows users to view and interact with blog posts and to add new posts. It fetches all the information that it displays using a local API creates with a JSON server.",
+    "image": "./assets/maaloum_blog.png",
+    "deployed": "https://main--super-paletas-b4ba8a.netlify.app/"
+},
+{
+    "id": 5,
+    "name": "Shopping Cart",
+    "description": "This is a small application that I built using ReactJs. It is a little shop that displays products and lets users add or remove items to or from the cart page and calculate the total price of all itemes.",
+    "image": "./assets/shopping_card.png",
+    "deployed": "https://main--super-paletas-b4ba8a.netlify.app/"
+},
+{
+    "id": 6,
+    "name": "Country Info",
+    "description": "Countries Infos is a React and Redux SPA application that displays interesting information about various countries in the world. It fetches all the information that it displays using API request to a server.",
+    "image": "./assets/country_info.png",
+    "deployed": "https://main--super-paletas-b4ba8a.netlify.app/"
+}
+
+]
