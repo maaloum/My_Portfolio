@@ -5,7 +5,7 @@ import './Project.css';
 export default function Project() {
   return (
     
-    <div className='project-section'>
+    <div className='project-section' id='MyProjects'>
             <h1>My Projects</h1>
     <div className='projects'> {Projects.map(project => {
             return (

@@ -1,8 +1,9 @@
 import React from 'react';
 import "bootstrap/js/src/collapse.js";
 import './NavBar.css';
-
+import { Anchor } from 'antd';
 export default function NavBar() {
+  const {Link} = Anchor;
   return (
 <nav className="navbar navbar-expand-lg">
   <a className="navbar-brand" href="/">
@@ -20,16 +21,16 @@ export default function NavBar() {
   <div className="collapse navbar-collapse" id="navbarSupportedContent">
     <ul className="navbar-nav ms-auto me-5">
       <li className="nav-item">
-        <a className="nav-link p-2 p-lg-3 " href="/">About Me</a>
+        <Link className="nav-link p-2 p-lg-3 " href="#About" title='About Me'></Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link p-2 p-lg-3" href="/">Skills</a>
+        <Link className="nav-link p-2 p-lg-3" href="#MySkills" title ='Skills' ></Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link p-2 p-lg-3" href="/">Projects</a>
+        <Link className="nav-link p-2 p-lg-3" href="#MyProjects" title='Projects'></Link>
       </li>
       <li className="nav-item ">
-        <a className="nav-link p-2 p-lg-3 " href="/">Contact Me</a>
+        <Link className="nav-link p-2 p-lg-3 " href="#ContactMe" title='Contact Me'></Link>
       </li>
 
     </ul>

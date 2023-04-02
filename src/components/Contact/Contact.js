@@ -3,7 +3,7 @@ import './Contact.css'
 
 export default function Contact() {
   return (
-    <div className = 'container-fuild contenu'>
+    <div className = 'container-fuild contenu' id='ContactMe'>
         <h3 className = 'text-center text-white'>Contact Me</h3>
         <div className = 'contact'>
             <div className = 'facebook'>
@@ -16,6 +16,9 @@ export default function Contact() {
                 <a href='https://www.linkedin.com/in/ely-cheikh-maaloum-075a79135/' target='_blank' rel="noreferrer"><i class = 'fa fa-linkedin text-white'></i></a>
             </div>
         </div> 
+        <div className='email'>
+            <a href='mailto:maaloumali1@gmail.com'> maaloumali1@gmai.com</a>
+        </div>
     
     
     </div>

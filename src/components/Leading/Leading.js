@@ -2,6 +2,9 @@ import React from 'react'
 import './Leading.css';
 import Typed from 'typed.js';
 import { useEffect, useRef } from 'react';
+import About from '../About/About';
+import Skills from '../Skills/Skills';
+import Project from '../Project/Project';
 
 export default function Leading() {
   const el = useRef(null);
@@ -32,7 +35,7 @@ export default function Leading() {
       </div>
       <div className='photo'>
           <img src="./assets/photo.jpeg" alt="personal photo"/>
-      </div>
+    </div>
     </div>
   )
 }
