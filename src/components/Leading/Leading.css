@@ -32,9 +32,9 @@
     justify-content: center;
     align-items: center;
 }
-.buttons button{
+.buttons a{
     padding: 5px;
-    width: 100px;
+    width: 120px;
     margin: 3px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
@@ -95,7 +95,7 @@
         margin-top: 1rem;
     }
 
-    .buttons button{
+    .buttons a{
 
         padding: 1rem 2rem;
         width: 200px;

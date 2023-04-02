@@ -53,20 +53,20 @@
 }
 
 .email{
-    margin-top: 200px;
+    margin-top: 20px;
 }
 .email a{
     color: #fff;
-    font-size: .5em;
+    font-size: 1.5em;
     text-decoration: none;
     padding: 12px;
 }
 
-/* .email a:hover{
+.email a:hover{
     color: #fff;
     background-color: none;
     border-radius: 5px;
     margin: 20px;
     transition: all 0.2s ease-in-out;
-} */
+} 
 

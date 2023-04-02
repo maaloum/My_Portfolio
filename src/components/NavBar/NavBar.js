@@ -32,6 +32,9 @@ export default function NavBar() {
       <li className="nav-item ">
         <Link className="nav-link p-2 p-lg-3 " href="#ContactMe" title='Contact Me'></Link>
       </li>
+      <li className="nav-item ">
+      <a className="nav-link p-2 p-lg-3 " href="CV-Maaloum.pdf" download="CV-Maaloum" >Resume</a>
+    </li>
 
     </ul>
   </div>
